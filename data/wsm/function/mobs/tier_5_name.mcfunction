@@ -1,0 +1,14 @@
+execute if entity @s[type=zombie] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Zombie ancien",color:"dark_red",bold:true}}
+execute if entity @s[type=skeleton] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Archer spectral",color:"gray",bold:true}}
+execute if entity @s[type=stray] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Sentinelle glaciale",color:"aqua",bold:true}}
+execute if entity @s[type=wither_skeleton] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Chevalier du Wither",color:"dark_gray",bold:true}}
+execute if entity @s[type=husk] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Momie du desert",color:"gold",bold:true}}
+execute if entity @s[type=drowned] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Noye des abysses",color:"dark_aqua",bold:true}}
+execute if entity @s[type=pillager] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Capitaine pillard",color:"red",bold:true}}
+execute if entity @s[type=vindicator] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Bourreau",color:"dark_red",bold:true}}
+execute if entity @s[type=witch] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Sorciere supreme",color:"dark_purple",bold:true}}
+execute if entity @s[type=piglin_brute] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Brute infernale",color:"gold",bold:true}}
+execute if entity @s[type=blaze] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Brasier ancien",color:"yellow",bold:true}}
+execute if entity @s[type=creeper] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Creeper instable",color:"green",bold:true}}
+execute if entity @s[type=spider] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Matriarche",color:"dark_purple",bold:true}}
+execute if entity @s[type=cave_spider] run data merge entity @s {CustomNameVisible:1b,CustomName:{text:"Veuve des profondeurs",color:"dark_purple",bold:true}}

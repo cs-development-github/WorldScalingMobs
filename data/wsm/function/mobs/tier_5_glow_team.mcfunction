@@ -1,0 +1,14 @@
+execute if entity @s[type=zombie] run team join wsm5_dred @s
+execute if entity @s[type=skeleton] run team join wsm5_gray @s
+execute if entity @s[type=stray] run team join wsm5_aqua @s
+execute if entity @s[type=wither_skeleton] run team join wsm5_dgray @s
+execute if entity @s[type=husk] run team join wsm5_gold @s
+execute if entity @s[type=drowned] run team join wsm5_daqua @s
+execute if entity @s[type=pillager] run team join wsm5_red @s
+execute if entity @s[type=vindicator] run team join wsm5_dred @s
+execute if entity @s[type=witch] run team join wsm5_dpurple @s
+execute if entity @s[type=piglin_brute] run team join wsm5_gold @s
+execute if entity @s[type=blaze] run team join wsm5_yellow @s
+execute if entity @s[type=creeper] run team join wsm5_green @s
+execute if entity @s[type=spider] run team join wsm5_dpurple @s
+execute if entity @s[type=cave_spider] run team join wsm5_dpurple @s
